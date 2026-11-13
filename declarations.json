@@ -1,0 +1,13 @@
+{
+ "_note": "Statements only the author can make. Confirmed by the author on 2026-11-12, except where _status says otherwise.",
+ "author": "Taeheon Cha",
+ "decl_funding": "This research received no external funding.",
+ "decl_interests": "The author runs the rule on a simulated trading account and holds no position in QQQ or related instruments. The author declares no other competing interests.",
+ "decl_code": "They are deposited at <https://github.com/cluke3830-cloud/gamma-exposure-trend-rule>, a repository that is private while the paper is under review and will be made public on publication.",
+ "_status": {
+  "decl_funding": "confirmed",
+  "decl_interests": "confirmed",
+  "decl_code": "repository created 2026-11-12, private; change this sentence when it is made public",
+  "author": "confirmed name; no affiliation or contact given"
+ }
+}

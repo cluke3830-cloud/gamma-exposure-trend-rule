@@ -1,0 +1,10 @@
+# daily series and everything computed day by day from the option quotes: never published
+work/
+# the option quotes themselves, and where to find them on the author's machine
+vendor_data/
+local_config.json
+.env
+*.parquet
+__pycache__/
+*.pyc
+.DS_Store

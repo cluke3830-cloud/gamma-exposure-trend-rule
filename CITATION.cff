@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or refer to the paper, please cite the paper."
+title: "Does option gamma exposure add anything to a trend rule? A daily test on QQQ, 2018 to 2026"
+type: software
+authors:
+  - family-names: Cha
+    given-names: Taeheon
+repository-code: "https://github.com/cluke3830-cloud/gamma-exposure-trend-rule"
+license: MIT
+date-released: 2026-11-12
+keywords:
+  - gamma exposure
+  - dealer hedging
+  - trend following
+  - backtest overfitting
+  - deflated Sharpe ratio
+preferred-citation:
+  type: unpublished
+  title: "Does option gamma exposure add anything to a trend rule? A daily test on QQQ, 2018 to 2026"
+  authors:
+    - family-names: Cha
+      given-names: Taeheon
+  year: 2026
+  month: 11
+  notes: "Working paper"
