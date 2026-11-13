@@ -96,7 +96,7 @@ Notes:
 ## License and citation
 
 The code is released under the MIT License (`LICENSE`). The paper and its figures are © 2026 Taeheon Cha, all rights
-reserved. To cite the paper or the code, see `CITATION.cff`.
+reserved (`NOTICE.md`). To cite the paper or the code, see `CITATION.cff`.
 
 The analysis code and figures were written with the assistance of Claude, an AI model made by Anthropic, which was also
 used to draft and edit the text. The author takes responsibility for the content.
